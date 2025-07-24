@@ -21,9 +21,6 @@
 
 Clone the repository:
 
-```bash
-git clone https://github.com/Anshgrover23/To-Do-List.git
-```
 
 Open `index.html` in your browser to use the application.
 
